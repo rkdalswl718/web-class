@@ -8,7 +8,6 @@ const chatBox = document.querySelector(".chat");
 const inputForm = document.getElementById('comment-form');
 const cancelButton = document.querySelector('.form-cancel');
 const commentList = document.getElementById('comment-list');
-
 // 초기 데이터 
 const initialComments = [
   {
