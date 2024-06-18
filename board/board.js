@@ -1,3 +1,4 @@
+
 const totalDisplay = document.getElementById("total");
 const todayDisplay = document.getElementById("today");
 let today = localStorage.getItem('today') || 1;
